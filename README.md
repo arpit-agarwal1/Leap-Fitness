@@ -1,6 +1,6 @@
 # Leap-Fitness
 
-This Repository is for my 7th Semester HCI project.
+This Repository is for our 7th Semester HCI project
 
 Link to Figma prototypes:
 - [Mobile Prototype](https://www.figma.com/proto/HSPLa0narUEQvPrlesJyiA/HCI-Project?node-id=10%3A6&scaling=scale-down)
